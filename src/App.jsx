@@ -140,7 +140,7 @@ function App() {
             <Players
               rotate={-1}
               img={
-                "https://custom-doodle.com/wp-content/uploads/doodle/pokemon-bulbasaur/pokemon-bulbasaur-doodle.gi"
+                "https://custom-doodle.com/wp-content/uploads/doodle/pokemon-bulbasaur/pokemon-bulbasaur-doodle.gif"
               }
             />
           </Box>
@@ -175,7 +175,7 @@ function App() {
             <Players
               rotate={1}
               img={
-                "https://64.media.tumblr.com/70294ea5458856ba706a953a9e00d4f0/tumblr_o2k5bpQ6BQ1qivz7no1_1280.gi"
+                "https://64.media.tumblr.com/70294ea5458856ba706a953a9e00d4f0/tumblr_o2k5bpQ6BQ1qivz7no1_1280.gif"
               }
             />
           </Box>
